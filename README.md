@@ -35,3 +35,7 @@ Inicie o projeto com Expo:
 npm start
 
 Abra o aplicativo em um emulador ou dispositivo físico utilizando o QR Code gerado no terminal.
+
+### Link da demonstração
+
+https://youtu.be/aPwFkSLsIno
